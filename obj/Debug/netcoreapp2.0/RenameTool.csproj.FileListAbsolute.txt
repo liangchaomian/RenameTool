@@ -1,0 +1,11 @@
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\bin\Debug\netcoreapp2.0\appsettings.json
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\bin\Debug\netcoreapp2.0\RenameTool.deps.json
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\bin\Debug\netcoreapp2.0\RenameTool.runtimeconfig.json
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\bin\Debug\netcoreapp2.0\RenameTool.runtimeconfig.dev.json
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\bin\Debug\netcoreapp2.0\RenameTool.dll
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\bin\Debug\netcoreapp2.0\RenameTool.pdb
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\obj\Debug\netcoreapp2.0\RenameTool.csprojAssemblyReference.cache
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\obj\Debug\netcoreapp2.0\RenameTool.AssemblyInfoInputs.cache
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\obj\Debug\netcoreapp2.0\RenameTool.AssemblyInfo.cs
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\obj\Debug\netcoreapp2.0\RenameTool.dll
+F:\LCM\测试\liamwang-rename-tool-af19e42\RenameTool\obj\Debug\netcoreapp2.0\RenameTool.pdb
