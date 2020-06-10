@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
@@ -69,14 +69,13 @@ namespace RenameTool
 
         static void ReplaceFile(string srcFile, string destFile)
         {
-            // Console.WriteLine($"From：{srcFile}\r\nTo：{destFile}");
-
             Directory.CreateDirectory(Path.GetDirectoryName(destFile));
 
-            var srcText = File.ReadAllText(srcFile, Encoding.UTF8);
+            var encoding = Util.GetEncoding(srcFile);
+            var srcText = File.ReadAllText(srcFile, encoding);
             var destText = replaceRegex.Replace(srcText, newProjectName);
 
-            File.WriteAllText(destFile, destText, Encoding.UTF8);
+            File.WriteAllText(destFile, destText, encoding);
         }
     }
 }
