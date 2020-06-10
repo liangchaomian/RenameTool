@@ -19,6 +19,7 @@ namespace RenameTool
 
         static void Main(string[] args)
         {
+            System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
             Console.Title = "项目重命名工具";
 
             config = Configuration.Build();
